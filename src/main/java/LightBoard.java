@@ -21,7 +21,7 @@ lights=new boolean[numRows][numCols];
         }
       }
   }
-}
+
   
 
   /** Evaluates a light in row index row and column index col and returns a status
